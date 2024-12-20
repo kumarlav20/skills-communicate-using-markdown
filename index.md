@@ -6,3 +6,6 @@ Commiting to see how It looks like being naive at this end
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Checklist of items to be purchased
+- [ ] Check for storage and carry bags
+- [ ] Safety, transport , commutablity checks
